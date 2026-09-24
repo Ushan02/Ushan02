@@ -1,4 +1,4 @@
-```markdown
+
 # Hi there 👋, I'm Ushan Sanuka
 
 ### 🎓 Computer Science Undergraduate | 💻 Full-Stack Developer
@@ -84,6 +84,3 @@
 [![Email](https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ushansanuka2023@gmail.com)
 
 
-
-⭐ Thanks for visiting my GitHub profile!
-```
