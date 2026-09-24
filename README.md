@@ -55,15 +55,6 @@
 
 ---
 
-## 📚 Currently Learning
-
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge\&logo=apache\&logoColor=white)
-![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-412991?style=for-the-badge\&logo=openai\&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge\&logo=tensorflow\&logoColor=white)
-![DevOps](https://img.shields.io/badge/DevOps-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-
----
 
 ## 📊 GitHub Stats
 
